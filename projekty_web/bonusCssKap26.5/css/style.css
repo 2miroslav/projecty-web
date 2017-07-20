@@ -1,0 +1,35 @@
+html,
+body{
+	margin: 0;
+}
+body{
+	background:  #F1EDD5;
+	margin: 50px auto;
+	width: 800px;
+	color: white;
+	font-weight: 700;
+}
+p{
+	padding: 0 33px;
+}
+article,
+.box{
+	border-radius: 8px;
+}
+article{
+	background: #3b9ae1;
+	margin-right: 20px;
+	width: 530px;
+	height: 300px;
+
+	float: left; 
+}
+.box{
+	background: #e64134;
+	margin-bottom: 20px;
+	height: 200px;
+}
+.sidebar{
+	float: left;
+	width: 250px;
+}

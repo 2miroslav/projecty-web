@@ -1,0 +1,116 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background: #eeefed;
+	margin: 50px auto;
+	width: 950px;
+
+}
+.name{
+	margin-left: 40px;
+	font-size: 30px;
+	font-weight: 300;
+}
+.box{
+	color: #A3A4A3;
+}
+.right{
+	float: right;
+	width: 210px;
+}
+.left{
+	float: left;
+	width: 700px;
+}
+input{
+	border: none;
+	background: #fff;
+	padding: 10px 10px;
+	margin-left: 37px;
+	outline: 1px solid #929392;
+}
+label{
+	margin-left: 37px;
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+.riadok{
+	display: inline-block;
+}
+.polia{
+	margin-top: 4px;
+	display: inline-block;
+}
+.email{
+	margin-left: 235px;
+}
+.sprava{
+	width: 500px;
+	margin:37px;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+textarea,
+.meno,
+.email{
+	border-radius: 5px;
+}
+#sprava{
+	margin-top: 4px;
+	width: 600px;
+}
+button{
+	margin: 0;
+	background: #fff;
+	margin-left: 37px;
+	padding: 10px 40px;
+	color: #EDEAE7;
+	background: #E0592B;
+	border-radius: 5px;
+}	
+img{
+	width: 15px;
+	top: 16px;
+	position: relative;
+}
+.mcon{
+	float: left;
+	width: 15px;
+}
+.mcon2{
+	float: right;
+	width: 190px;
+}
+.con{
+	float: left;
+	width: 15px;
+}
+.con2{
+	float: right;
+	width: 190px;
+}
+footer{
+	margin-top: 50px;
+	text-align: center;
+	color: #A3A4A3;
+}
+.contact{
+	padding-top: 25px;
+}
+.margin {
+	margin: 0px;
+}
+.first{
+	margin-top: 25px;
+	margin-bottom: 0;
+}
+.group:before,
+.group:after{
+	content: " ";
+	display: table;
+}
+.group:after{
+	clear: both;
+}
+.group{
+	*zoom: 1px;
+}

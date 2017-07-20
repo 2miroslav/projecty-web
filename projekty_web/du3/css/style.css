@@ -1,0 +1,87 @@
+body,
+html{
+	margin: 0;
+}
+body{
+	margin: 50px auto;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	background: #eee;
+}
+.header-first{
+	font-size: 25px;
+	line-height: 35px;
+	margin-bottom: 40px;
+}
+.link{
+	text-decoration: none;
+	border-bottom: 2px;
+	line-height: 10;
+	background: #ed786a;
+	color: #ffff;
+	border-radius: 5px;
+	padding: 15px;
+	border: 0;
+
+
+}
+.link:hover,
+.link:focus{
+	background: #e95d4c;
+	text-shadow: 1px 1px 2px #eee;
+}
+.up{
+	text-transform: uppercase;
+}
+
+.float{
+	margin: 0 auto;
+	width: 900px;
+	border-bottom: 10px;
+	line-height: 20px;
+}
+img{
+	width: 250px;
+	border: 5px solid #bada55;
+	margin: 0;
+}
+
+.lavo,
+.stred,
+.pravo{
+	display: block;
+	padding: 25px;
+	font: 14/24px Monaco, Consolas, "Lucida Console", monospace;
+	border-radius: 6px;
+	text-align: center;
+}
+.float.lavo,
+.float.stred,
+.float.pravo{
+	margin: 0 auto;
+}
+.lavo{
+	float: left;
+	width: 250px;
+}
+.stred{
+	float: left;
+	width: 250px;
+}
+.pravo{
+	float: left;
+	width: 250px;
+}
+
+
+.group:before,
+.group:after{
+	content: " ";
+	display: table;
+}
+.group:after{
+	clear: both;
+}
+.group{
+	*zoom: 1px;
+}

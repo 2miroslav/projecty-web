@@ -1,0 +1,69 @@
+body,html{
+	margin: 0px;
+
+	
+}
+body{
+	width: 50% auto;
+	background: #8fd2d2;
+	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+.menu{
+	margin: 0px;
+	background: #fff;
+	pading-top: auto;
+	list-style: none;
+	padding-left: 0;
+	text-align: center;
+	line-height: 50px;
+
+}
+.menu li,
+.menu a{
+	display: inline-block;
+}
+.menu a{
+	text-decoration: none;
+	padding: 10px;
+	color: #858585;
+}
+.main{
+	padding-top: 25px;
+	text-align: center;
+	color: #fff;
+}
+.main h1{
+	font-size: 350%;
+}
+.main a,
+.main h1{
+	text-transform: uppercase;
+}
+.main a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+	background: #fd6955;
+	padding-top: 15px;
+	padding: 15px;
+	border-radius: 5px;
+}
+.main h2{
+	font-weight: 700;
+	margin-bottom: 40px;
+}
+.btn{
+	text-shadow: 2px 2px 0px solid;
+}
+.menubtn:hover{
+	background: #eee; 
+}
+.tlacbtn:hover{
+	background: #fd4b33;
+}
+.main p{
+	font-size: 18px;
+	margin-top: 50px;
+	font-weight: 600;
+}

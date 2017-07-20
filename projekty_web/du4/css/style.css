@@ -1,0 +1,62 @@
+body{
+	font-style: 'Lato', sans-serif;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+}
+.menu {
+	list-style: none;
+	text-align: center;
+	background: #e74c3c;
+	padding: 20px;
+	font-size: 15px;
+	line-height: 30px;
+}
+.menu li{
+	display: inline-block;
+	padding-left: 50px;
+}
+.menu a{
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 40px 5px 40px 5px;
+}
+.cover{
+	background: #fff url('../img/pokus.png') 50% 80px no-repeat;
+	height: 908px;
+}
+.obsah{
+	margin-bottom: 60px;
+}
+.clanok{
+	width: 808px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.clanok h1{
+	color: #e74c3c;
+	font-weight: 400;
+}
+.clanok p{
+	color: #888;
+	line-height: 30px;
+	margin-bottom: 60px;
+}
+.clanok a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #fff;
+	background: #e74c3c;
+	border-radius: 6px;
+	padding: 10px;
+}
+.footer{
+	height: 200px;
+	background: #e74c3c;
+	color: #ee8478;
+}
+img{
+	margin-left: 15px;
+	margin-top: 30px;
+	background-image: #ee8478;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Recept na bryndzove halusky</title>
+</head>
+<body>
+	<h1>Recept na bryndzove halusky</h1>
+	<h2>Potrebne ingrediencie</h2>
+	<p>Na pripravu bryndzovych halusiek budeme potrebovat tieto ingrediencie:</p>
+	<ul>
+		<li>
+			Bryndza <br>
+			<img src="bryndza.jpg" alt="bryndza.jpg" title='Bryndza' height="300">
+		</li>
+		
+		<li>
+			Kysla smotana
+		</li>
+		<li>
+			Slanina <br>
+			<img src="domaca-slanina-jinex.png" alt="domaca-slanina-jinex.png" title="Slanina" height="300">
+		</li>
+		
+		<li>
+			Zemiaky <br>
+			<img src="zemiak.jpg" alt="zemiak.jpg" title="Zemiaky" height="300">
+		</li>
+		
+		<li>
+			Polohruba muka <br>
+			<img src="polohruba-muka.jpg" alt="polohruba-muka.jpg" title="Muka" height="300">
+		</li>
+		
+		<li>
+			Voda
+		</li>
+		<li>
+			Sol
+		</li>
+	</ul>
+	<h2>Postup pripravi halisiek</h2>
+	<p>Pripadny postup pripravy brindzovych halusiek:</p>
+	<ol>
+		<li>Ocistime si zemiaky</li>
+		<li>Nastruhame zemiaky</li>
+		<li>Do nastruhanych zemiakov pridame polohrubu muku</li>
+		<li>Vymiesame do polotuheho cesta</li>
+		<li>Podtavime vodu a osolime ju</li>
+		<li>Zacneme hadzat halusky</li>
+		<li>Oprazime si slaninku</li>
+		<li>Kyslu smotanu zmiesame s bryndzov</li>
+		<li>Precedime uvarene halusky</li>
+		<li>Vsetko spolu zmiesame</li>
+	</ol>
+	<p>Gratulujem prave sa Vam podarilo navarit bryndzove halusky</p>
+	<img src="halusky.jpg" alt="halusky.jpg" title="Bryndzove halusky" height="200" >
+</body>
+</html>

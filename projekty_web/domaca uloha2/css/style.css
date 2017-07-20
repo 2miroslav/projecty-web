@@ -1,0 +1,44 @@
+html,body{
+	border: 0px;
+}
+body{
+	background: #2577FF;
+	color: #FFE5E4;
+	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	-webkit-font-smoothing: antialiased;
+	line-height: 26px;
+	width: 50%;
+	margin: 50px auto;
+	padding: 10px;
+}
+img{
+	border-radius: 50%;
+	width: 70%;
+}
+.uvod{
+	text-align: center;
+}
+.obsah{
+	text-align: left;
+}
+a{
+	background: #494618;
+	color: #FFF;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 20px;
+	cursor: pointer;
+}
+a:hover{
+	background: #2f2d10;
+	color: #f7f7f7;
+	text-shadow: 2px 2px 0px rgb(0,0,0)
+}
+p{
+	font-size: 16px;
+}
+h3{
+
+	border-bottom: 2px solid lightgray;
+	padding-bottom: 20px;
+}

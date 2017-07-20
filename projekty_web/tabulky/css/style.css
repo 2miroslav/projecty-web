@@ -1,0 +1,32 @@
+body{
+	margin: 0 0 0 20px;
+	background: #eee;
+	-webkit-font-smoothing: antialiased;
+}
+table{
+	color: #fff;
+	background: #34495E;
+	border-collapse: collapse;
+	border-radius: 8px;
+}
+th,td{
+	padding: 15px 18px;
+	border-bottom: 1px solid #46627f;
+}
+th,tfoot{
+	color: #dd5;
+	text-align: left;
+	font-weight: bold;
+
+	height: 100px;
+	vertical-align: middle;
+}
+tr:last-child td{
+	border-bottom: 0;
+}
+tfoot{
+	text-align: right;
+}
+.center{
+	text-align: center;
+}
